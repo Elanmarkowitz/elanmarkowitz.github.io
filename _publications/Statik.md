@@ -1,0 +1,11 @@
+---
+title: "StATIK: Structure and Text for Inductive Knowledge Graph Completion"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+date: 2021-02-08
+venue: 'Findings of NAACL'
+paperurl: 'https://aclanthology.org/2022.findings-naacl.46/'
+citation: 'Markowitz, E., Balasubramanian, K., Mirtaheri, M., Annavaram, M., Galstyan, A.G., & Steeg, G.V. (2022). StATIK: Structure and Text for Inductive Knowledge Graph Completion. NAACL-HLT.'
+---
+
+Paper Talk [Here](https://underline.io/events/325/posters/11377/poster/54187-statik-structure-and-text-for-inductive-knowledge-graph-completion). 
