@@ -2,8 +2,9 @@
 title: "Biased User History Synthesis for Personalized Long-Tail Item Recommendation"
 collection: publications
 permalink: /publication/2024-01-01-biased-user-history
+authors: Keshav Balasubramanian, Abdulla Alshabanah, Elan Markowitz, Greg Ver Steeg, Murali Annavaram
 date: 2024-01-01
-venue: 'ACM Conference on Recommender Systems'
+venue: 'ACM Conference on Recommender Systems 2024'
 paperurl: 'https://dl.acm.org/doi/'
-citation: 'Balasubramanian, K., Alshabanah, A., Markowitz, E., Ver Steeg, G., & Annavaram, M. (2024). Biased User History Synthesis for Personalized Long-Tail Item Recommendation. In Proceedings of the 18th ACM Conference on Recommender Systems (pp. 189-199).'
 ---
+[Access paper here](https://dl.acm.org/doi/){:target="_blank"}
