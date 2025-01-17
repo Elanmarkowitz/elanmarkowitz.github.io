@@ -14,12 +14,6 @@ I'm Elan Markowitz, a researcher passionate about the future of AI. My focus is 
 
 I'm currently a final year PhD student at the University of Southern California, working under the guidance of Greg Ver Steeg and Aram Galstyan. I'm open to employment opportunities starting in Summer 2025.
 
-Hi there! 
-
-I am a researcher with a focus on combining graph learning and language modeling. My projects have ranged from designing and training combined language-graph hybrid models to building agentic LLM retrieval systems with inference-time search for improved reasoning. 
-
-I am a final year PhD student at the University of Southern California under the advisement of Greg Ver Steeg and Aram Galstyan. Currently open to employment opportunities beginning Summer 2025.
-
 Education
 ======
 Prior to U.S.C., I studied at UCLA where I received my B.S. in Computer Science (2018). 
